@@ -1,0 +1,13 @@
+h1 {
+  font-family: "impact";
+  text-align: center;
+  color: black;
+  font-size: 80px;
+  text-shadow: -1px 10px 10px #c02820;
+  transition-property: font-size;
+  transition-duration: 1s;
+}
+
+h1:hover {
+  font-size: 100px;
+}

@@ -1,0 +1,26 @@
+.App {
+  font-family: "Times New Roman", Times, serif;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  height: 100vh;
+  background: linear-gradient(rgba(250, 0, 0, 0.5), transparent);
+  background-color: orange;
+}
+
+.button {
+  outline: none;
+  text-decoration: none;
+  justify-content: center;
+  cursor: pointer;
+  text-transform: uppercase;
+  height: 20px;
+  opacity: 1;
+  background-color: black;
+  color: white;
+}
